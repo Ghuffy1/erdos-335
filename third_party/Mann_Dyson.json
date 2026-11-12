@@ -1,0 +1,38 @@
+{
+  "repository": "sthubbar/goldbach-lean",
+  "commit": "559706d617bc554787e10dba07066dc63ab69cb5",
+  "formalization_author": "Steve Hubbard",
+  "upstream_ai_credit": "Claude, as stated in the source header",
+  "license": "Apache-2.0",
+  "original_files": [
+    {
+      "upstream_path": "entries/mann1942/LeanLab/Ramare1995/Theorem91.lean",
+      "path": "third_party/MannSupport.original.lean.txt",
+      "url": "https://github.com/sthubbar/goldbach-lean/blob/559706d617bc554787e10dba07066dc63ab69cb5/entries/mann1942/LeanLab/Ramare1995/Theorem91.lean",
+      "sha256": "6f26a5f7481902becf32b51789ed7aab50a5a1b9fd8a530768354daa97964342"
+    },
+    {
+      "upstream_path": "entries/mann1942/LeanLab/Schnirelmann/Mann.lean",
+      "path": "third_party/Mann.original.lean.txt",
+      "url": "https://github.com/sthubbar/goldbach-lean/blob/559706d617bc554787e10dba07066dc63ab69cb5/entries/mann1942/LeanLab/Schnirelmann/Mann.lean",
+      "sha256": "32665f71be3141b1357c4a6aa15225408a141a376fbbae93cabf549658801d44"
+    }
+  ],
+  "adapted_files": [
+    {
+      "path": "Erdos335/Upstream/MannSupport.lean",
+      "sha256": "ea1cb6481ea802abd0dc6126675f7fd13c5c9b16ce086ea5a1470975ddd48b50"
+    },
+    {
+      "path": "Erdos335/Upstream/Mann.lean",
+      "sha256": "d3f0aa58e148eeb0f2948fdb36440a66643b22cc9f5e0087f2eba60e2874f992"
+    }
+  ],
+  "adaptations": [
+    "Selected the counting/transform declarations before hyp_tr from Theorem91.",
+    "Retained Section9's exact positive-prefix count definition.",
+    "Kept the complete Mann.lean mathematical body and theorem statements.",
+    "Narrowed imports and removed the public-module wrapper for local compatibility.",
+    "The proof bodies compiled against the project's existing Lean/Mathlib pin."
+  ]
+}

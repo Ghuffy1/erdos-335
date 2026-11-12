@@ -1,0 +1,8 @@
+F:\Problems agent\private_reviews\erdos335_20261110\lean\Erdos335\PeriodicRefinementSparseGcd.lean:130:25: warning: `Set.mem_setOf_eq` has been deprecated: Use `Set.mem_ofPred_eq` instead
+F:\Problems agent\private_reviews\erdos335_20261110\lean\Erdos335\PeriodicRefinementSparseGcd.lean:151:5: warning: Variable name `hu₀` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _hu₀
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+F:\Problems agent\private_reviews\erdos335_20261110\lean\Erdos335\PeriodicRefinementSparseGcd.lean:169:29: warning: `Set.mem_setOf_eq` has been deprecated: Use `Set.mem_ofPred_eq` instead

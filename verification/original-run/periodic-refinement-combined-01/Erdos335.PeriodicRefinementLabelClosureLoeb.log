@@ -1,0 +1,10 @@
+F:\Problems agent\private_reviews\erdos335_20261110\lean\Erdos335\PeriodicRefinementLabelClosureLoeb.lean:126:12: warning: `if_pos` has been deprecated: Use `ite_eq_left` instead
+F:\Problems agent\private_reviews\erdos335_20261110\lean\Erdos335\PeriodicRefinementLabelClosureLoeb.lean:130:12: warning: `if_neg` has been deprecated: Use `ite_eq_right` instead
+F:\Problems agent\private_reviews\erdos335_20261110\lean\Erdos335\PeriodicRefinementLabelClosureLoeb.lean:247:10: warning: `if_pos` has been deprecated: Use `ite_eq_left` instead
+F:\Problems agent\private_reviews\erdos335_20261110\lean\Erdos335\PeriodicRefinementLabelClosureLoeb.lean:249:10: warning: `if_neg` has been deprecated: Use `ite_eq_right` instead
+F:\Problems agent\private_reviews\erdos335_20261110\lean\Erdos335\PeriodicRefinementLabelClosureLoeb.lean:243:4: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+F:\Problems agent\private_reviews\erdos335_20261110\lean\Erdos335\PeriodicRefinementLabelClosureLoeb.lean:327:16: warning: `if_neg` has been deprecated: Use `ite_eq_right` instead
+F:\Problems agent\private_reviews\erdos335_20261110\lean\Erdos335\PeriodicRefinementLabelClosureLoeb.lean:327:28: warning: `if_pos` has been deprecated: Use `ite_eq_left` instead
+F:\Problems agent\private_reviews\erdos335_20261110\lean\Erdos335\PeriodicRefinementLabelClosureLoeb.lean:342:21: warning: `if_pos` has been deprecated: Use `ite_eq_left` instead

@@ -1,0 +1,31 @@
+{
+  "repository": "YaelDillies/MiscYD",
+  "commit": "ca0b3bbc903dae81e361f5f30f8ed8c98d43fad8",
+  "files": [
+    {
+      "path": "lean-toolchain",
+      "bytes": 24,
+      "sha256": "3f9803cfd3bce5e50120efa5412d1c92f58adbe802154353d29ac98e5722269e"
+    },
+    {
+      "path": "lake-manifest.json",
+      "bytes": 3437,
+      "sha256": "80f3ac506e5c42e7acac0fdd2ac5e60f90dc3e1e14f96238fb9be2da3501fe5a"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 11357,
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+    },
+    {
+      "path": "MiscYD/AddCombi/Kneser/Kneser.lean",
+      "bytes": 27527,
+      "sha256": "f5eceed195ab0b909510eaceb010c856e3a25c25331ff94149527f3d6cf89789"
+    },
+    {
+      "path": "MiscYD/AddCombi/Kneser/MulStab.lean",
+      "bytes": 17912,
+      "sha256": "8f6872914a8830fb89b8ff39fc609ef79cb16221ba4f45cc0ac0c6fee4bc7608"
+    }
+  ]
+}

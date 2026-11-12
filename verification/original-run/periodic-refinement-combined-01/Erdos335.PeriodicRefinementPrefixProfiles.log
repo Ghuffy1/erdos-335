@@ -1,0 +1,9 @@
+F:\Problems agent\private_reviews\erdos335_20261110\lean\Erdos335\PeriodicRefinementPrefixProfiles.lean:38:55: warning: `Set.mem_setOf_eq` has been deprecated: Use `Set.mem_ofPred_eq` instead
+F:\Problems agent\private_reviews\erdos335_20261110\lean\Erdos335\PeriodicRefinementPrefixProfiles.lean:68:26: warning: `Set.mem_setOf_eq` has been deprecated: Use `Set.mem_ofPred_eq` instead
+F:\Problems agent\private_reviews\erdos335_20261110\lean\Erdos335\PeriodicRefinementPrefixProfiles.lean:102:4: warning: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+F:\Problems agent\private_reviews\erdos335_20261110\lean\Erdos335\PeriodicRefinementPrefixProfiles.lean:112:15: warning: `tendsto_finset_sum` has been deprecated: Use `tendsto_finsetSum` instead
+F:\Problems agent\private_reviews\erdos335_20261110\lean\Erdos335\PeriodicRefinementPrefixProfiles.lean:153:21: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`

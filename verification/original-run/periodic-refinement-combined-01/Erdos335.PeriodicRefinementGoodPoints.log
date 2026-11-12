@@ -1,0 +1,2 @@
+F:\Problems agent\private_reviews\erdos335_20261110\lean\Erdos335\PeriodicRefinementGoodPoints.lean:132:12: warning: `if_pos` has been deprecated: Use `ite_eq_left` instead
+F:\Problems agent\private_reviews\erdos335_20261110\lean\Erdos335\PeriodicRefinementGoodPoints.lean:155:8: warning: `if_pos` has been deprecated: Use `ite_eq_left` instead

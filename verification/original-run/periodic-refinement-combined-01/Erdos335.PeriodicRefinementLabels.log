@@ -1,0 +1,4 @@
+F:\Problems agent\private_reviews\erdos335_20261110\lean\Erdos335\PeriodicRefinementLabels.lean:43:31: warning: `Set.mem_setOf_eq` has been deprecated: Use `Set.mem_ofPred_eq` instead
+F:\Problems agent\private_reviews\erdos335_20261110\lean\Erdos335\PeriodicRefinementLabels.lean:94:8: warning: `if_neg` has been deprecated: Use `ite_eq_right` instead
+F:\Problems agent\private_reviews\erdos335_20261110\lean\Erdos335\PeriodicRefinementLabels.lean:117:10: warning: `if_pos` has been deprecated: Use `ite_eq_left` instead
+F:\Problems agent\private_reviews\erdos335_20261110\lean\Erdos335\PeriodicRefinementLabels.lean:119:10: warning: `if_neg` has been deprecated: Use `ite_eq_right` instead

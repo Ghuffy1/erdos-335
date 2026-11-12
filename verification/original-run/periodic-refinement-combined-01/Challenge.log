@@ -1,0 +1,6 @@
+Erdos335.Challenge.original_pair_iff : ∀ (A B : Set ℕ),
+  Erdos335.IsErdos335Pair A B ↔ Erdos335.Challenge.OriginalPair A B
+'Erdos335.Challenge.original_pair_iff' depends on axioms: [propext, Classical.choice, Quot.sound]
+Erdos335.Challenge.density_uses_positive_prefixes : ∀ (A : Set ℕ) (a : ℝ),
+  Erdos335.HasDensity A a ↔ Tendsto (fun N => ↑{n ∈ Finset.Icc 1 N | n ∈ A}.card / ↑N) atTop (𝓝 a)
+'Erdos335.Challenge.density_uses_positive_prefixes' depends on axioms: [propext, Classical.choice, Quot.sound]

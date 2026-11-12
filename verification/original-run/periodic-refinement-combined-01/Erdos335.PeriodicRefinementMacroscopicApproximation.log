@@ -1,0 +1,1 @@
+F:\Problems agent\private_reviews\erdos335_20261110\lean\Erdos335\PeriodicRefinementMacroscopicApproximation.lean:69:14: warning: `tendsto_finset_sum` has been deprecated: Use `tendsto_finsetSum` instead

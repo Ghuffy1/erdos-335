@@ -1,0 +1,55 @@
+{
+  "canonical_id": "erdos:335",
+  "scope": "All positive ordinary-natural-density A,B with equality and ordinary d(A+B), including sum one and arbitrary modular obstructions.",
+  "checked_clock": {
+    "current_time": "2026-11-10 23:53:46 UTC"
+  },
+  "source_pages": [
+    {
+      "name": "primary",
+      "url": "https://www.erdosproblems.com/335",
+      "start_utc": "2026-11-10T23:52:42.8998742Z",
+      "end_utc": "2026-11-10T23:52:43.2055244Z",
+      "bytes": 32290,
+      "sha256": "5c1c3695ba3b76109fbf2dec3e8d41adbda6259f54d154ce7e0438e8968d3cd5",
+      "http": 200
+    },
+    {
+      "name": "forum",
+      "url": "https://www.erdosproblems.com/forum/thread/335",
+      "start_utc": "2026-11-10T23:52:42.9323959Z",
+      "end_utc": "2026-11-10T23:52:43.2306606Z",
+      "bytes": 38935,
+      "sha256": "03f36c8b17737cc14026b19759b39ee621b2b901002e2026b7d4e62fca0beb6f",
+      "http": 200
+    },
+    {
+      "name": "claims",
+      "url": "https://www.erdosproblems.com/forum/thread/335/proof-claims",
+      "start_utc": "2026-11-10T23:52:42.9751926Z",
+      "end_utc": "2026-11-10T23:52:43.2577572Z",
+      "bytes": 37924,
+      "sha256": "c54f5e2ed51c45a3750eef8498604c7a1ea2ef904018865ddba418c5f7d8b238",
+      "http": 200
+    },
+    {
+      "name": "qed",
+      "url": "https://qed.bot/s/erdos-335",
+      "start_utc": "2026-11-10T23:52:43.0017342Z",
+      "end_utc": "2026-11-10T23:52:43.3655339Z",
+      "bytes": 14145,
+      "sha256": "6c49df8f917a6754288377e1dcab5b14cad23accd395db4b348b21aba2e5c948",
+      "http": 200
+    },
+    {
+      "name": "aiwiki",
+      "url": "https://erdosproblems.ai/wiki/problems/additive_combinatorics/E0335",
+      "start_utc": "2026-11-10T23:52:43.0359254Z",
+      "end_utc": "2026-11-10T23:52:43.1805128Z",
+      "bytes": 173743,
+      "sha256": "d917e2cabc7cb678d1312dd0250500ee3fe766cb7983ae9e71f8b20f5e454ed7",
+      "http": 200
+    }
+  ],
+  "description": "Public-source provenance extracted from the dated development record. The mathematical statement and submission are subject to current independent review."
+}

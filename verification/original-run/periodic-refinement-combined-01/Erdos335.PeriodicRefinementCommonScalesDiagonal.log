@@ -1,0 +1,7 @@
+F:\Problems agent\private_reviews\erdos335_20261110\lean\Erdos335\PeriodicRefinementCommonScalesDiagonal.lean:192:8: warning: `if_pos` has been deprecated: Use `ite_eq_left` instead
+F:\Problems agent\private_reviews\erdos335_20261110\lean\Erdos335\PeriodicRefinementCommonScalesDiagonal.lean:205:23: warning: `if_neg` has been deprecated: Use `ite_eq_right` instead
+F:\Problems agent\private_reviews\erdos335_20261110\lean\Erdos335\PeriodicRefinementCommonScalesDiagonal.lean:205:58: warning: `if_pos` has been deprecated: Use `ite_eq_left` instead
+F:\Problems agent\private_reviews\erdos335_20261110\lean\Erdos335\PeriodicRefinementCommonScalesDiagonal.lean:207:22: warning: `if_neg` has been deprecated: Use `ite_eq_right` instead
+F:\Problems agent\private_reviews\erdos335_20261110\lean\Erdos335\PeriodicRefinementCommonScalesDiagonal.lean:207:33: warning: `if_neg` has been deprecated: Use `ite_eq_right` instead
+F:\Problems agent\private_reviews\erdos335_20261110\lean\Erdos335\PeriodicRefinementCommonScalesDiagonal.lean:214:19: warning: `if_pos` has been deprecated: Use `ite_eq_left` instead
+F:\Problems agent\private_reviews\erdos335_20261110\lean\Erdos335\PeriodicRefinementCommonScalesDiagonal.lean:217:19: warning: `if_pos` has been deprecated: Use `ite_eq_left` instead

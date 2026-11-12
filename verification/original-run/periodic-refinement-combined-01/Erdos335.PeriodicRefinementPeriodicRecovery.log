@@ -1,0 +1,4 @@
+F:\Problems agent\private_reviews\erdos335_20261110\lean\Erdos335\PeriodicRefinementPeriodicRecovery.lean:68:6: warning: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+F:\Problems agent\private_reviews\erdos335_20261110\lean\Erdos335\PeriodicRefinementPeriodicRecovery.lean:79:59: warning: `if_neg` has been deprecated: Use `ite_eq_right` instead

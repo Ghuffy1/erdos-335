@@ -1,0 +1,33 @@
+{
+  "schema": "erdos335-publication-check-v1",
+  "completed_at": "2026-11-12T23:45:07.177537+00:00",
+  "status": "passed",
+  "canonical_lean_sources": 892,
+  "source_identity_checked_before_and_after": true,
+  "verified_dependency_revisions_reused": true,
+  "verified_project_outputs_reused": true,
+  "fresh_replay_performed_for_original_byte_identical_source": true,
+  "new_fresh_replay_performed": false,
+  "axiom_targets_checked": 2602,
+  "allowed_axioms": [
+    "Classical.choice",
+    "Quot.sound",
+    "propext"
+  ],
+  "checks": [
+    {
+      "source": "Challenge.lean",
+      "exit_code": 0,
+      "seconds": 145.093,
+      "log": "verification/publication-challenge.log",
+      "log_sha256": "636adc5d37a4cb8a9616f2422151589efb14a71c76f01ba5672753b5fcc8a73e"
+    },
+    {
+      "source": "verification/CheckAxioms.lean",
+      "exit_code": 0,
+      "seconds": 48.391,
+      "log": "verification/publication-axioms.log",
+      "log_sha256": "76bfcce914478f4d349d6585bfdd6d7eaa751a196a17ba53be6d40d3d0963074"
+    }
+  ]
+}

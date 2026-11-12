@@ -1,0 +1,55 @@
+{
+  "repository": "AlexGeorgantzas/lean-numerical-stability",
+  "commit": "65f57a03d607ba3c561bff40f105defbddf0fd49",
+  "files": [
+    {
+      "path": "NumStability/Analysis/Equidistribution/AddCircle.lean",
+      "local": "..\\public_sources\\numstability_equidistribution\\NumStability__Analysis__Equidistribution__AddCircle.lean",
+      "bytes": 23598,
+      "sha256": "2384ebfc9dd635eaa8c2f9a58e3c5fd46ecbdd857a1fe8aa96cd5b60c6b172c2",
+      "url": "https://raw.githubusercontent.com/AlexGeorgantzas/lean-numerical-stability/65f57a03d607ba3c561bff40f105defbddf0fd49/NumStability/Analysis/Equidistribution/AddCircle.lean"
+    },
+    {
+      "path": "LICENSE",
+      "local": "..\\public_sources\\numstability_equidistribution\\LICENSE",
+      "bytes": 1088,
+      "sha256": "b76921be8e718c9bcb4b0c7a99ccc43fbe2fe6507cea2746c9952359c9451892",
+      "url": "https://raw.githubusercontent.com/AlexGeorgantzas/lean-numerical-stability/65f57a03d607ba3c561bff40f105defbddf0fd49/LICENSE"
+    },
+    {
+      "path": "lean-toolchain",
+      "local": "..\\public_sources\\numstability_equidistribution\\lean-toolchain",
+      "bytes": 28,
+      "sha256": "fdf7ccfe204caff50fab1913b9f13a763be5384e87d14555c9fdcb2be2b9f7f8",
+      "url": "https://raw.githubusercontent.com/AlexGeorgantzas/lean-numerical-stability/65f57a03d607ba3c561bff40f105defbddf0fd49/lean-toolchain"
+    },
+    {
+      "path": "lakefile.toml",
+      "local": "..\\public_sources\\numstability_equidistribution\\lakefile.toml",
+      "bytes": 388,
+      "sha256": "eadd818e456373aa7b72830f8649417ad188d85ba6b70314b3216e654ef1f6d7",
+      "url": "https://raw.githubusercontent.com/AlexGeorgantzas/lean-numerical-stability/65f57a03d607ba3c561bff40f105defbddf0fd49/lakefile.toml"
+    },
+    {
+      "path": "lake-manifest.json",
+      "local": "..\\public_sources\\numstability_equidistribution\\lake-manifest.json",
+      "bytes": 3160,
+      "sha256": "ccfe8a72d6d227aebfe4e58575ddf2a2aef03b795052f97b770c36f684cc5774",
+      "url": "https://raw.githubusercontent.com/AlexGeorgantzas/lean-numerical-stability/65f57a03d607ba3c561bff40f105defbddf0fd49/lake-manifest.json"
+    }
+  ],
+  "original_sha256": "2384ebfc9dd635eaa8c2f9a58e3c5fd46ecbdd857a1fe8aa96cd5b60c6b172c2",
+  "original_path": "third_party/NumStability-AddCircle.original.lean.txt",
+  "adapted_path": "Erdos335/Upstream/NumStabilityAddCircle.lean",
+  "adapted_sha256": "51eb2239280db92e5d0f9044f9e67e2cb32efb0e790889c4db1b839b930179eb",
+  "license_path": "third_party/NumStability-MIT.txt",
+  "project_toolchain": "leanprover/lean4:v4.34.0",
+  "adaptations": [
+    "Pass the orbit function to the current ProbabilityMeasure.map API",
+    "Make the Circle-to-complex equality conversion explicit",
+    "Use convert for the current function-valued scalar limit representation",
+    "Rename deprecated ite_false and Metric.closedBall_sdiff_ball references",
+    "Retain author credit and enable autoImplicit false"
+  ],
+  "mathematical_statements_retained": true
+}

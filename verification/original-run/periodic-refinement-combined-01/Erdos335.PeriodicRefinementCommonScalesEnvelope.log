@@ -1,0 +1,18 @@
+F:\Problems agent\private_reviews\erdos335_20261110\lean\Erdos335\PeriodicRefinementCommonScalesEnvelope.lean:59:27: warning: Unused tactic linter: `ring` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+F:\Problems agent\private_reviews\erdos335_20261110\lean\Erdos335\PeriodicRefinementCommonScalesEnvelope.lean:95:25: warning: Unused tactic linter: `ring` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+F:\Problems agent\private_reviews\erdos335_20261110\lean\Erdos335\PeriodicRefinementCommonScalesEnvelope.lean:108:37: warning: Unused tactic linter: `ring` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+F:\Problems agent\private_reviews\erdos335_20261110\lean\Erdos335\PeriodicRefinementCommonScalesEnvelope.lean:59:27: warning: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+F:\Problems agent\private_reviews\erdos335_20261110\lean\Erdos335\PeriodicRefinementCommonScalesEnvelope.lean:95:25: warning: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+F:\Problems agent\private_reviews\erdos335_20261110\lean\Erdos335\PeriodicRefinementCommonScalesEnvelope.lean:108:37: warning: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
